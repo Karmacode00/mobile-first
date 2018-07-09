@@ -1,1 +1,57 @@
+.formSearch {
+  margin-right: 55%;
+}
 
+.dropdown-item {
+  background-color: #f8f9fa;
+}
+
+.dropdown-menu {
+  border: 0em;
+  background-color: #f8f9fa;
+}
+
+.cards {
+  padding-top: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+#test {
+  padding-top: 6%;
+  text-align: center;
+}
+
+.cardImg {
+  padding: 1%;
+}
+
+.contactInfo {
+  margin-top: 5%;
+  background-color: #FA8070;
+  padding: 0% 15% 4% 15%;
+  color: white;
+}
+
+#contact {
+  text-align: center;
+  padding-top: 5%;
+  margin-bottom: 8%;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.btnStyle {
+  background-color: white;
+  color: black;
+}
+
+.icons {
+  text-align: center;
+}
+.icon {
+  margin: 1%;
+  text-align: center;
+}
